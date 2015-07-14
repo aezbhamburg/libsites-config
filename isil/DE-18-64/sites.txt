@@ -1,3 +1,42 @@
 ISIL DE-18-64
-@sm
-Staats- und Universitätsbibliothek - Speicherbibliothek
+@cl
+Universitätsklinikum Hamburg-Eppendorf - Ärztliche Zentralbibliothek
+Gebäude N60
+Martinistr. 52
+20246 Hamburg
+
+Mo - So 08:00 - 22:00 Uhr
+
+aezb@uke.de
+
++49 40 7410 59552
+
+53.59194,9.97254 
+
+@lb
+Universitätsklinikum Hamburg-Eppendorf - Ärztliche Zentralbibliothek
+Gebäude N60
+Martinistr. 52
+20246 Hamburg
+
+Mo - So 08:00 - 22:00 Uhr
+
+aezb@uke.de
+
++49 40 7410 59552
+
+53.59194,9.97254 
+
+@ls
+Universitätsklinikum Hamburg-Eppendorf - Ärztliche Zentralbibliothek
+Gebäude N60
+Martinistr. 52
+20246 Hamburg
+
+Mo - So 08:00 - 22:00 Uhr
+
+aezb@uke.de
+
++49 40 7410 59552
+
+53.59194,9.97254 
